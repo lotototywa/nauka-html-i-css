@@ -1,0 +1,25 @@
+body {
+background-color:goldenrod;
+font-family:Verdana;
+font-size: 20px;
+color:black;
+}
+h1{
+font: size 48px;
+}
+
+a:link{
+color: Red;
+}
+ a:visited{
+
+color: green;
+}
+
+a:hover{
+color: whitesmoke; 
+
+}
+
+
+
